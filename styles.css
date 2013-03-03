@@ -1,0 +1,60 @@
+h1{
+	font-family: sans-serif;
+	font-size: 25px;
+	text-align: center;
+	padding: 10px;
+	border: solid black;
+	background: #9800A3;
+	margin: 5px;
+	
+}
+
+body{
+	background: #00A398
+
+}
+
+fieldset{
+	background: #005CA3;
+	border:	solid black;
+	margin: 5px;
+}
+
+legend{
+	font-size: 20px;
+	font-family: sans-serif;
+	font-weight: bold;
+	background: #9800A3;
+	border: solid;
+	padding: 5px;
+
+}
+
+li{
+	margin: 5px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+input{
+
+	background: #FCD6FF;
+}
+
+textarea{
+	border: solid black;
+	background:#FCD6FF;
+}
+a{
+	font-family: sans-serif;
+	margin: 5px;
+
+}
+
+.focus{
+	border: solid #00A398;
+}
+
+.remove{
+	display:none;
+}
